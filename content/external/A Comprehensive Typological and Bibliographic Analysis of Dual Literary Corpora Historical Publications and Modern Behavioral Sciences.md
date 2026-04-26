@@ -1,9 +1,5 @@
 ---
-source: "https://jubilancy-eliana.flowershow.me/Identifying+Books+From+Images/A+Comprehensive+Typological+and+Bibliographic+Analysis+of+Dual+Literary+Corpora"
-created: 2026-04-17
-tags:
-  - "new-clippings"
-kind: "obsidian-clipper"
+title: A Comprehensive Typological and Bibliographic Analysis of Dual Literary Corpora Historical Publications and Modern Behavioral Sciences
 ---
 ## Introduction to the Curational Landscape of Human Knowledge
 
