@@ -1,17 +1,27 @@
-# Quartz v4
-
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+# welcome to my [digital garden](https://jzhao.xyz/posts/networked-thought) @ [jubilancy.github.io](http://jubilancy.github.io/) !
+## a personal website curated with lists, notes, guides, tools etc. built with github pages, quartz, and markdown.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+### tech stack
+- github pages
+- quartz
+- markdown
+- want to make your own? get started with reading the documentation [here](https://quartz.jzhao.xyz/) and join the [discord community](https://discord.gg/cRFFHYye7t)
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+### structure
+- `readme.md` / `index.md`: main page content
+- `_config.yml`: site configuration
+- `_includes/head_custom.html`: custom additions to the html head
+- `assets/images/`: images and favicon
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+### customizations
+- favicon: `assets/images/favicon.svg`
+- head override: `_includes/head_custom.html`
 
-## Sponsors
+## stay up to date with your favorite feed reader:
+- [repo releases](https://github.com/jubilancy/jubilancy.github.io/releases.atom)
+- [repo commits ](https://github.com/jubilancy/jubilancy.github.io/commits.atom)
+- [private feed (you can find subscribe to your news feed in dashboard page after login) ](https://github.com/jubilancy.private.atom?token=:secret)
+- [repo tags ](https://github.com/jubilancy/jubilancy.github.io/tags.atom)
+- [user activity ](https://github.com/jubilancy.atom)
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
