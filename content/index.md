@@ -1,13 +1,13 @@
 ---
 title: hi! i'm eliana
 ---
-this is the homepage of my new Quartz site at **jubilancy.github.io**.
+this is the homepage of my new quartz site at **jubilancy.github.io**.
 
 ### feel free to link my button !
-![](static/buttons/button_150x20.gif)
-![](static/buttons/button_300x40.gif)
-![](static/buttons/button_450x60.gif)
-![](static/buttons/button_600x80.gif)
+![](/static/buttons/150x20.gif)
+![](/static/buttons/300x40.gif)
+![](/static/buttons/450x60.gif)
+![](/static/buttons/600x80.gif)
 
 ```
                                                                                                     
