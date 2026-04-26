@@ -4,10 +4,7 @@ title: hi! i'm eliana
 this is the homepage of my new quartz site at **jubilancy.github.io**.
 
 ### feel free to link my button !
-![](/static/buttons/150x20.gif)
 ![](/static/buttons/300x40.gif)
-![](/static/buttons/450x60.gif)
-![](/static/buttons/600x80.gif)
 
 ```
                                                                                                     
