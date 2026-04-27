@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import * as Component from "./quartz/components"
 
 /**
  * Quartz 4 Configuration
@@ -76,23 +77,24 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
-    emitters: [
-      Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
-      Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
-      Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: true,
-      }),
-      Plugin.Assets(),
-      Plugin.Static(),
-      Plugin.Favicon(),
-      Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      // Plugin.CustomOgImages(),
-    ],
+  emitters: [
+    Component.RSS({
+      stylesheet: "/feed-style.xsl",
+    }),
+    Plugin.AliasRedirects(),
+    Plugin.ComponentResources(),
+    Plugin.ContentPage(),
+    Plugin.FolderPage(),
+    Plugin.TagPage(),
+    Plugin.ContentIndex({
+      enableSiteMap: true,
+      enableRSS: false, // Set this to false to avoid overwriting your styled feed
+    }),
+    Plugin.Assets(),
+    Plugin.Static(),
+    Plugin.Favicon(),
+    Plugin.NotFoundPage(),
+],
   },
 }
 

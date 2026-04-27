@@ -3,3 +3,4 @@ my sources
 - https://github.com/tuan3w/awesome-tech-rss
 - https://codeberg.org/meadowingc/blog-astro/src/branch/main/src/components/WritingHeatmap.astro
 - some gifs from http://www.kyleberger.ca/'s website
+- https://github.com/ddikman/xslt-viewer
