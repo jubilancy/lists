@@ -1,0 +1,40 @@
+---
+title: "music platforms"
+---
+
+- Spotify
+- amazon music
+- pandora
+- qobuz
+- Beatport
+- beatsource
+- iTunes
+- Napster
+- anghami
+- KKBOX
+- last.fm
+- Boomplay
+- audiomack
+- tunemymusic.com
+- Amazon Music
+- Anghami
+- Apple Music
+- Audiomack
+- Beatport
+- Beatsource
+- Boomplay
+- Deezer
+- Free text
+- iTunes
+- KKBOX
+- last.fm
+- Napster
+- Pandora
+- Qobuz
+- Soundcloud
+- SoundMachine
+- TIDAL
+- Upload file
+- URL
+- YouTube
+- YouTube Music

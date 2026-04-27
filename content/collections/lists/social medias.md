@@ -1,0 +1,429 @@
+---
+title: "social medias"
+---
+
+- kira.art
+- Snapseed
+- Freepik AI Editor
+- Tezza
+- PicsArt
+- Dreamwidth:
+- NewTumbl
+- 3D Lovers
+- 500px
+- Adobe Lightroom Mobile
+- Afterlight
+- AI Lab
+- AI Portrait
+- AirBrush
+- Ani3D - 3D Video Converter
+- AniSmall-Video Compressor
+- Auto Reframe
+- Bandcamp
+- Behance
+- BeReal
+- Blogger
+- Build a Website
+- Build an Audience
+- Camera Users
+- CloudSpot
+- Cluster
+- Cons
+- Craft CMS
+- Creary
+- Darkroom
+- DeviantArt
+- Dropbox
+- Ello: - Best secured.
+- EyeEm
+- EyeEm App
+- Facebook
+- Facebook groups: Best for Newbies.
+- Facebook Pages Manager
+- Facetune
+- FAQs
+- Flickr
+- Flipagram
+- Format
+- Foto Owl
+- GeoSnapShot
+- Ghost
+- Ghost: - Best Overall.
+- Glass
+- Google Photos
+- Google Sheets
+- Google Wallet
+- Google+
+- Grav
+- Guide
+- Gump
+- GuruShots
+- Honcho
+- Hot Articles
+- Hubpages:
+- Hyvor Blogs
+- Image
+- Instagram
+- Known
+- Kwikpic
+- Last.fm
+- Lemon8
+- Likee Videos
+- Locket
+- Luminar Mobile
+- Mac Users
+- Mastodon
+- Mastodon: Best open source option.
+- Medium
+- Memzo
+- Minds
+- Movie Users
+- Myspace
+- Newgrounds
+- Newgrounds: Best for professionals.
+- Online Compressor
+- Online Converter
+- Part 2: Top 20 apps similar to Tumblr
+- Path
+- Pelican
+- Photier
+- Photobucket
+- PhotoDay
+- Photoshop Express Photo Editor
+- Pic-Time
+- PicsArt
+- Pillowfort
+- PillowFort
+- Pillowfort:
+- Pinterest
+- Pixieset
+- Pixiv:
+- Pixlr
+- Polarr
+- Posthaven
+- Prisma Photo Editor
+- Proofpix
+- Pros
+- Recording Tips
+- reddit
+- Reddit: Best for beginners.
+- ringtones
+- RNI Films
+- Screen Recorder Tips
+- Sell Photos
+- ShootProof
+- Site123:
+- SmugMug
+- Snapchat
+- Snapseed
+- Social Media Users
+- Socialcast
+- Soul:
+- Soup.io
+- Speech to Text
+- Sports Fans
+- SpotMyPhotos
+- Squarespace
+- Store Photos
+- StumbleUpon
+- Sunroom
+- Svbtle
+- Tech Specs
+- Tezza App
+- TikTok Videos
+- Tumblr
+- TV Recording
+- Twitter
+- Twitter: Best for sharing short content.
+- Typepad
+- UniConverter-Video Converter
+- Vero
+- Video Converter
+- Video Tutorial
+- Video/Audio
+- Vine
+- VSCO
+- WaldoPro
+- We Heart It
+- Webflow: Easy to use.
+- What's New
+- WhatsApp
+- Wix
+- WordPress
+- Write.as
+- YouTube Videos
+- Zenfolio
+- Zupr
+- [bwitter](http://bwitter.me/)
+- 2chan
+- 420chan
+- 4chan
+- 7 Cups
+- 8chan
+- 9gag
+- Amino
+- b3ta
+- Bebo
+- BIGO LIVE
+- Bin Weevils
+- Bitview
+- bwitter
+- Cannibal Cafe
+- Clown Dating
+- Club Penguin
+- DeviantArt
+- Digg
+- Discord
+- Facebook
+- Faceparty
+- fandom
+- Farmers Only
+- Friendster
+- furaffinity
+- GIPHY
+- Goo
+- Google Video
+- Google+
+- Habbo Hotel
+- Happn
+- HerpesFish.com
+- Hinge
+- Ice Chewers Bulletin Board
+- icebergcharts.com
+- Imgur
+- IMVU
+- Instagram
+- Kakao
+- Kik
+- LINE
+- LinkedIn
+- Miitomo
+- MiiVerse
+- minds
+- Mix
+- Momo
+- Musical.ly
+- MySpace
+- Myspace
+- Newgrounds
+- OK
+- Parler
+- Pinterest
+- pinterest
+- Quora
+- Reddit
+- Roblox
+- signal
+- SixDegrees
+- Skype
+- Skyrock
+- Snapchat
+- snapchat
+- SomethingAwful
+- Stag and Dove
+- subrocks
+- Telegram
+- Tencent QQ
+- Thingbox
+- TikTok
+- Tinder
+- Toutiao
+- Tumblr
+- TV Tropes
+- Twitch
+- Twitter
+- Vidlii
+- VK
+- WeChat
+- Weibo
+- WhatsApp
+- Yee
+- YouTube
+- ytmnd
+- Facebook
+- YouTube
+- WhatsApp
+- Messenger
+- Instagram
+- WeChat
+- TikTok
+- Douyin
+- Telegram
+- QQ
+- Snapchat
+- Weibo
+- Qzone
+- Kuaishou
+- Pinterest
+- Reddit
+- Twitter
+- Quora
+- Skype
+- Tieba
+- Viber
+- LinkedIn
+- Teams
+- imo
+- Line
+- Picsart
+- Likee
+- Discord
+- Twitch
+- Stack Exchange
+- Zoom
+- Google Meet
+- iMessage
+- FaceTime
+- Mastodon
+- Linktree
+- Gab
+- Parler
+- Truth Social
+- Vine
+- MySpace
+- https://www.500px.com
+- https://www.anilist.co
+- https://www.anime-planet.com
+- https://www.anobii.com
+- https://www.archiveofourown.org
+- https://www.artstation.com
+- https://www.audiomack.com
+- https://www.authorstream.com
+- https://www.bandcamp.com
+- https://www.behance.net
+- https://www.bibsonomy.org
+- https://www.bizsugar.com
+- https://www.blog.8tracks.com
+- https://www.blogger.com
+- https://www.booklikes.com
+- https://www.bookstr.com
+- https://www.classmates.com
+- https://www.criticker.com
+- https://www.DA
+- https://www.datpiff.com
+- https://www.delicious.com
+- https://www.deviantart.com
+- https://www.diasporafoundation.org
+- https://www.digg.com
+- https://www.diigo.com
+- https://www.dribbble.com
+- https://www.dzone.com
+- https://www.elllo.org
+- https://www.facebook.com
+- https://www.fanfiction.net
+- https://www.fark.com
+- https://www.flickr.com
+- https://www.flixster.com
+- https://www.folkd.com
+- https://www.gab.com
+- https://www.gaiaonline.com
+- https://www.goodreads.com
+- https://www.hubpages.com
+- https://www.imdb.com
+- https://www.imgur.com
+- https://www.instagram.com
+- https://www.issuu.com
+- https://www.jamendo.com
+- https://www.kakaocorp.com
+- https://www.kitsu.app
+- https://www.last.fm
+- https://www.letterboxd.com
+- https://www.librarything.com
+- https://www.linkedin.com
+- https://www.litsy.com
+- https://www.livejournal.com
+- https://www.mastodon.social
+- https://www.medium.com
+- https://www.meetup.com
+- https://www.mewe.com
+- https://www.minds.com
+- https://www.mix.com
+- https://www.mixcloud.com
+- https://www.mubi.com
+- https://www.myanimelist.net
+- https://www.myheritage.com
+- https://www.myspace.com
+- https://www.newgrounds.com
+- https://www.pearltrees.com
+- https://www.pinterest.com
+- https://www.pixiv.net
+- https://www.plurk.com
+- https://www.quora.com
+- https://www.quotev.com
+- https://www.raftr.com
+- https://www.reddit.com
+- https://www.reverbnation.com
+- https://www.scoop.it
+- https://www.scribd.com
+- https://www.slashdot.org
+- https://www.slideboom.com
+- https://www.slideshare.net
+- https://www.snapchat.com
+- https://www.soundcloud.com
+- https://www.steemit.com
+- https://www.stumbleupon.com
+- https://www.tagged.com
+- https://www.technorati.com
+- https://www.trakt.tv
+- https://www.tripadvisor.in
+- https://www.tumblr.com
+- https://www.vero.co
+- https://www.vimeo.com
+- https://www.wattpad.com
+- https://www.wechat.com
+- https://www.weheartit.com
+- https://www.whatsapp.com
+- https://www.wordpress.com
+- https://www.x.com
+- https://www.xing.com
+- https://www.youtube.com
+- Badoo
+- Baidu Tieba
+- CafeMom
+- Care2
+- Cellufun
+- Classmates
+- Delicious
+- Facebook
+- Flixster
+- Foursquare
+- Friendster
+- Funny or Die
+- Instagram
+- Kiwibox.com
+- Line
+- LinkedIn
+- LiveJournal
+- Mix
+- MyHeritage
+- MySpace
+- Nextdoor
+- Pinterest
+- QQ
+- QZone
+- Ravelry
+- Reddit
+- Renren
+- ReverbNation
+- Sina Weibo
+- Skype
+- Skyrock
+- Snapchat
+- Snapfish
+- Tagged
+- Taringa
+- Telegram
+- The Dots
+- Tumblr
+- Twitter
+- Upstream
+- Viadeo
+- Viber
+- VKontakte
+- Wayn
+- WeChat
+- WhatsApp
+- Xanga
+- Xing
+- YouTube
+- YY
