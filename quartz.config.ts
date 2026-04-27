@@ -1,6 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-import * as Component from "./quartz/components"
 
 /**
  * Quartz 4 Configuration
@@ -78,9 +77,6 @@ const config: QuartzConfig = {
     ],
     filters: [Plugin.RemoveDrafts()],
   emitters: [
-    Component.RSS({
-      stylesheet: "/feed-style.xsl",
-    }),
     Plugin.AliasRedirects(),
     Plugin.ComponentResources(),
     Plugin.ContentPage(),
@@ -88,7 +84,7 @@ const config: QuartzConfig = {
     Plugin.TagPage(),
     Plugin.ContentIndex({
       enableSiteMap: true,
-      enableRSS: false, // Set this to false to avoid overwriting your styled feed
+      enableRSS: true,
     }),
     Plugin.Assets(),
     Plugin.Static(),
