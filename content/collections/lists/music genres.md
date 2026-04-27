@@ -3508,3 +3508,253 @@
 - weirdlistening
 - weirdriddim
 - witichhouse
+* [rock](https://musicbrainz.org/tag/rock)1,536,060
+* [electronic](https://musicbrainz.org/tag/electronic)1,269,195
+* [pop](https://musicbrainz.org/tag/pop)756,056
+* [jazz](https://musicbrainz.org/tag/jazz)396,967
+* [hip hop](https://musicbrainz.org/tag/hip%20hop)348,856
+* [experimental](https://musicbrainz.org/tag/experimental)299,273
+* [ambient](https://musicbrainz.org/tag/ambient)295,902
+* [classical](https://musicbrainz.org/tag/classical)287,685
+* [punk](https://musicbrainz.org/tag/punk)259,848
+* [alternative rock](https://musicbrainz.org/tag/alternative%20rock)259,368
+* [metal](https://musicbrainz.org/tag/metal)244,688
+* [indie rock](https://musicbrainz.org/tag/indie%20rock)205,083
+* [pop rock](https://musicbrainz.org/tag/pop%20rock)199,301
+* [country](https://musicbrainz.org/tag/country)175,258
+* [folk](https://musicbrainz.org/tag/folk)173,590
+* [downtempo](https://musicbrainz.org/tag/downtempo)167,058
+* [house](https://musicbrainz.org/tag/house)162,446
+* [techno](https://musicbrainz.org/tag/techno)149,874
+* [soul](https://musicbrainz.org/tag/soul)148,083
+* [hard rock](https://musicbrainz.org/tag/hard%20rock)147,176
+* [heavy metal](https://musicbrainz.org/tag/heavy%20metal)143,261
+* [blues](https://musicbrainz.org/tag/blues)141,151
+* [industrial](https://musicbrainz.org/tag/industrial)123,382
+* [synth-pop](https://musicbrainz.org/tag/synth-pop)123,099
+* [instrumental](https://musicbrainz.org/tag/instrumental)122,834
+* [electro](https://musicbrainz.org/tag/electro)117,689
+* [classic rock](https://musicbrainz.org/tag/classic%20rock)105,664
+* [black metal](https://musicbrainz.org/tag/black%20metal)105,168
+* [folk rock](https://musicbrainz.org/tag/folk%20rock)104,844
+* [reggae](https://musicbrainz.org/tag/reggae)97,784
+* [death metal](https://musicbrainz.org/tag/death%20metal)97,371
+* [trance](https://musicbrainz.org/tag/trance)93,398
+* [progressive rock](https://musicbrainz.org/tag/progressive%20rock)91,625
+* [r&b](https://musicbrainz.org/tag/r%26b)89,809
+* [lo-fi](https://musicbrainz.org/tag/lo-fi)89,524
+* [dance](https://musicbrainz.org/tag/dance)89,065
+* [psychedelic rock](https://musicbrainz.org/tag/psychedelic%20rock)83,179
+* [noise](https://musicbrainz.org/tag/noise)78,280
+* [new wave](https://musicbrainz.org/tag/new%20wave)75,598
+* [latin](https://musicbrainz.org/tag/latin)74,095
+* [funk](https://musicbrainz.org/tag/funk)70,119
+* [blues rock](https://musicbrainz.org/tag/blues%20rock)69,328
+* [idm](https://musicbrainz.org/tag/idm)69,077
+* [rock and roll](https://musicbrainz.org/tag/rock%20and%20roll)64,119
+* [drone](https://musicbrainz.org/tag/drone)63,987
+* [disco](https://musicbrainz.org/tag/disco)62,330
+* [post-rock](https://musicbrainz.org/tag/post-rock)60,417
+* [dark ambient](https://musicbrainz.org/tag/dark%20ambient)60,172
+* [singer-songwriter](https://musicbrainz.org/tag/singer-songwriter)59,445
+* [drum and bass](https://musicbrainz.org/tag/drum%20and%20bass)59,243
+* [indie pop](https://musicbrainz.org/tag/indie%20pop)58,806
+* [chillwave](https://musicbrainz.org/tag/chillwave)58,489
+* [electronica](https://musicbrainz.org/tag/electronica)56,170
+* [ballad](https://musicbrainz.org/tag/ballad)51,851
+* [post-punk](https://musicbrainz.org/tag/post-punk)51,842
+* [rockabilly](https://musicbrainz.org/tag/rockabilly)50,793
+* [instrumental hip hop](https://musicbrainz.org/tag/instrumental%20hip%20hop)50,231
+* [psychedelic](https://musicbrainz.org/tag/psychedelic)49,999
+* [boom bap](https://musicbrainz.org/tag/boom%20bap)49,369
+* [doom metal](https://musicbrainz.org/tag/doom%20metal)49,193
+* [dub](https://musicbrainz.org/tag/dub)49,169
+* [modern classical](https://musicbrainz.org/tag/modern%20classical)47,406
+* [soft rock](https://musicbrainz.org/tag/soft%20rock)46,853
+* [trip hop](https://musicbrainz.org/tag/trip%20hop)46,601
+* [lo-fi hip hop](https://musicbrainz.org/tag/lo-fi%20hip%20hop)46,503
+* [vaporwave](https://musicbrainz.org/tag/vaporwave)45,256
+* [ebm](https://musicbrainz.org/tag/ebm)44,694
+* [dubstep](https://musicbrainz.org/tag/dubstep)41,431
+* [easy listening](https://musicbrainz.org/tag/easy%20listening)40,108
+* [schlager](https://musicbrainz.org/tag/schlager)39,997
+* [thrash metal](https://musicbrainz.org/tag/thrash%20metal)39,811
+* [deep house](https://musicbrainz.org/tag/deep%20house)38,873
+* [country rock](https://musicbrainz.org/tag/country%20rock)38,749
+* [new age](https://musicbrainz.org/tag/new%20age)38,673
+* [synthwave](https://musicbrainz.org/tag/synthwave)38,058
+* [contemporary jazz](https://musicbrainz.org/tag/contemporary%20jazz)37,969
+* [breakbeat](https://musicbrainz.org/tag/breakbeat)37,163
+* [shoegaze](https://musicbrainz.org/tag/shoegaze)37,081
+* [garage rock](https://musicbrainz.org/tag/garage%20rock)36,714
+* [swing](https://musicbrainz.org/tag/swing)35,120
+* [progressive metal](https://musicbrainz.org/tag/progressive%20metal)34,618
+* [stoner rock](https://musicbrainz.org/tag/stoner%20rock)34,377
+* [punk rock](https://musicbrainz.org/tag/punk%20rock)34,275
+* [avant-garde](https://musicbrainz.org/tag/avant-garde)34,209
+* [progressive house](https://musicbrainz.org/tag/progressive%20house)33,990
+* [art rock](https://musicbrainz.org/tag/art%20rock)33,591
+* [tech house](https://musicbrainz.org/tag/tech%20house)32,041
+* [dance-pop](https://musicbrainz.org/tag/dance-pop)30,933
+* [emo](https://musicbrainz.org/tag/emo)28,808
+* [dark wave](https://musicbrainz.org/tag/dark%20wave)28,787
+* [chillout](https://musicbrainz.org/tag/chillout)27,748
+* [ska](https://musicbrainz.org/tag/ska)27,435
+* [j-pop](https://musicbrainz.org/tag/j-pop)26,826
+* [grunge](https://musicbrainz.org/tag/grunge)26,630
+* [progressive trance](https://musicbrainz.org/tag/progressive%20trance)26,564
+* [grindcore](https://musicbrainz.org/tag/grindcore)26,500
+* [non-music](https://musicbrainz.org/tag/non-music)25,781
+* [baroque](https://musicbrainz.org/tag/baroque)25,347
+* [comedy](https://musicbrainz.org/tag/comedy)25,199
+* [psytrance](https://musicbrainz.org/tag/psytrance)25,047
+* [power metal](https://musicbrainz.org/tag/power%20metal)24,847
+* [acoustic rock](https://musicbrainz.org/tag/acoustic%20rock)24,552
+* [contemporary r&b](https://musicbrainz.org/tag/contemporary%20r%26b)24,542
+* [alternative metal](https://musicbrainz.org/tag/alternative%20metal)24,512
+* [breaks](https://musicbrainz.org/tag/breaks)24,259
+* [bluegrass](https://musicbrainz.org/tag/bluegrass)24,254
+* [pop punk](https://musicbrainz.org/tag/pop%20punk)24,071
+* [metalcore](https://musicbrainz.org/tag/metalcore)24,007
+* [big band](https://musicbrainz.org/tag/big%20band)23,629
+* [europop](https://musicbrainz.org/tag/europop)23,569
+* [euro house](https://musicbrainz.org/tag/euro%20house)23,235
+* [orchestral](https://musicbrainz.org/tag/orchestral)22,687
+* [chiptune](https://musicbrainz.org/tag/chiptune)22,669
+* [jungle](https://musicbrainz.org/tag/jungle)22,427
+* [leftfield](https://musicbrainz.org/tag/leftfield)22,169
+* [roots reggae](https://musicbrainz.org/tag/roots%20reggae)22,119
+* [electropop](https://musicbrainz.org/tag/electropop)22,113
+* [power pop](https://musicbrainz.org/tag/power%20pop)21,440
+* [post-hardcore](https://musicbrainz.org/tag/post-hardcore)21,107
+* [dream pop](https://musicbrainz.org/tag/dream%20pop)20,929
+* [hardcore punk](https://musicbrainz.org/tag/hardcore%20punk)20,854
+* [pop rap](https://musicbrainz.org/tag/pop%20rap)20,754
+* [americana](https://musicbrainz.org/tag/americana)20,586
+* [contemporary classical](https://musicbrainz.org/tag/contemporary%20classical)20,283
+* [smooth jazz](https://musicbrainz.org/tag/smooth%20jazz)19,941
+* [space rock](https://musicbrainz.org/tag/space%20rock)19,803
+* [glitch](https://musicbrainz.org/tag/glitch)19,736
+* [opera](https://musicbrainz.org/tag/opera)19,628
+* [trap](https://musicbrainz.org/tag/trap)19,514
+* [celtic](https://musicbrainz.org/tag/celtic)19,236
+* [breakcore](https://musicbrainz.org/tag/breakcore)18,855
+* [gospel](https://musicbrainz.org/tag/gospel)18,458
+* [gangsta rap](https://musicbrainz.org/tag/gangsta%20rap)18,440
+* [vocal jazz](https://musicbrainz.org/tag/vocal%20jazz)18,141
+* [edm](https://musicbrainz.org/tag/edm)18,018
+* [gothic](https://musicbrainz.org/tag/gothic)17,169
+* [melodic death metal](https://musicbrainz.org/tag/melodic%20death%20metal)16,908
+* [progressive](https://musicbrainz.org/tag/progressive)16,819
+* [hard trance](https://musicbrainz.org/tag/hard%20trance)16,718
+* [club](https://musicbrainz.org/tag/club)16,539
+* [romantic classical](https://musicbrainz.org/tag/romantic%20classical)16,181
+* [dancehall](https://musicbrainz.org/tag/dancehall)16,080
+* [free jazz](https://musicbrainz.org/tag/free%20jazz)15,811
+* [southern rock](https://musicbrainz.org/tag/southern%20rock)15,748
+* [krautrock](https://musicbrainz.org/tag/krautrock)15,716
+* [jazz-funk](https://musicbrainz.org/tag/jazz-funk)15,537
+* [experimental electronic](https://musicbrainz.org/tag/experimental%20electronic)15,257
+* [concerto](https://musicbrainz.org/tag/concerto)14,935
+* [chanson française](https://musicbrainz.org/tag/chanson%20fran%C3%A7aise)14,745
+* [electro house](https://musicbrainz.org/tag/electro%20house)14,593
+* [neofolk](https://musicbrainz.org/tag/neofolk)14,573
+* [hard house](https://musicbrainz.org/tag/hard%20house)14,274
+* [indie folk](https://musicbrainz.org/tag/indie%20folk)14,094
+* [nu metal](https://musicbrainz.org/tag/nu%20metal)14,062
+* [contemporary country](https://musicbrainz.org/tag/contemporary%20country)14,023
+* [underground hip hop](https://musicbrainz.org/tag/underground%20hip%20hop)14,017
+* [christmas music](https://musicbrainz.org/tag/christmas%20music)13,863
+* [gothic metal](https://musicbrainz.org/tag/gothic%20metal)13,721
+* [symphonic rock](https://musicbrainz.org/tag/symphonic%20rock)13,381
+* [jazz rock](https://musicbrainz.org/tag/jazz%20rock)13,248
+* [industrial metal](https://musicbrainz.org/tag/industrial%20metal)12,969
+* [symphony](https://musicbrainz.org/tag/symphony)12,937
+* [doo-wop](https://musicbrainz.org/tag/doo-wop)12,816
+* [britpop](https://musicbrainz.org/tag/britpop)12,788
+* [gothic rock](https://musicbrainz.org/tag/gothic%20rock)12,770
+* [electric blues](https://musicbrainz.org/tag/electric%20blues)12,715
+* [classic country](https://musicbrainz.org/tag/classic%20country)12,540
+* [jazz fusion](https://musicbrainz.org/tag/jazz%20fusion)12,375
+* [math rock](https://musicbrainz.org/tag/math%20rock)12,351
+* [alternative pop](https://musicbrainz.org/tag/alternative%20pop)12,298
+* [post-metal](https://musicbrainz.org/tag/post-metal)12,286
+* [atmospheric black metal](https://musicbrainz.org/tag/atmospheric%20black%20metal)12,221
+* [free improvisation](https://musicbrainz.org/tag/free%20improvisation)12,112
+* [experimental rock](https://musicbrainz.org/tag/experimental%20rock)12,079
+* [post-bop](https://musicbrainz.org/tag/post-bop)11,918
+* [hard bop](https://musicbrainz.org/tag/hard%20bop)11,896
+* [bebop](https://musicbrainz.org/tag/bebop)11,877
+* [symphonic metal](https://musicbrainz.org/tag/symphonic%20metal)11,575
+* [soul jazz](https://musicbrainz.org/tag/soul%20jazz)11,552
+* [sludge metal](https://musicbrainz.org/tag/sludge%20metal)11,405
+* [arena rock](https://musicbrainz.org/tag/arena%20rock)11,397
+* [musical](https://musicbrainz.org/tag/musical)11,258
+* [happy hardcore](https://musicbrainz.org/tag/happy%20hardcore)11,138
+* [conscious hip hop](https://musicbrainz.org/tag/conscious%20hip%20hop)11,111
+* [speed metal](https://musicbrainz.org/tag/speed%20metal)11,056
+* [alternative country](https://musicbrainz.org/tag/alternative%20country)11,045
+* [cool jazz](https://musicbrainz.org/tag/cool%20jazz)11,043
+* [spoken word](https://musicbrainz.org/tag/spoken%20word)10,791
+* [contemporary folk](https://musicbrainz.org/tag/contemporary%20folk)10,754
+* [stoner metal](https://musicbrainz.org/tag/stoner%20metal)10,675
+* [noise rock](https://musicbrainz.org/tag/noise%20rock)10,580
+* [folk metal](https://musicbrainz.org/tag/folk%20metal)10,528
+* [neo soul](https://musicbrainz.org/tag/neo%20soul)10,233
+* [latin jazz](https://musicbrainz.org/tag/latin%20jazz)10,097
+* [bossa nova](https://musicbrainz.org/tag/bossa%20nova)9,821
+* [filk](https://musicbrainz.org/tag/filk)9,733
+* [plunderphonics](https://musicbrainz.org/tag/plunderphonics)9,631
+* [future funk](https://musicbrainz.org/tag/future%20funk)9,626
+* [eurodance](https://musicbrainz.org/tag/eurodance)9,568
+* [grime](https://musicbrainz.org/tag/grime)9,543
+* [indie](https://musicbrainz.org/tag/indie)121,560
+* [soundtrack](https://musicbrainz.org/tag/soundtrack)111,938
+* [pop/rock](https://musicbrainz.org/tag/pop%2Frock)84,946
+* [alternative](https://musicbrainz.org/tag/alternative)58,663
+* [rap](https://musicbrainz.org/tag/rap)50,698
+* [video game music](https://musicbrainz.org/tag/video%20game%20music)44,757
+* [hardcore](https://musicbrainz.org/tag/hardcore)42,140
+* [vgm](https://musicbrainz.org/tag/vgm)42,135
+* [score](https://musicbrainz.org/tag/score)41,679
+* [rock & roll](https://musicbrainz.org/tag/rock%20%26%20roll)38,506
+* [minimal](https://musicbrainz.org/tag/minimal)32,464
+* [vocal](https://musicbrainz.org/tag/vocal)28,523
+* [alternative/indie rock](https://musicbrainz.org/tag/alternative%2Findie%20rock)25,730
+* [contemporary pop/rock](https://musicbrainz.org/tag/contemporary%20pop%2Frock)23,129
+* [album rock](https://musicbrainz.org/tag/album%20rock)22,122
+* [acoustic](https://musicbrainz.org/tag/acoustic)20,697
+* [adult contemporary](https://musicbrainz.org/tag/adult%20contemporary)19,911
+* [hip-hop](https://musicbrainz.org/tag/hip-hop)19,571
+* [christmas](https://musicbrainz.org/tag/christmas)19,260
+* [synthpop](https://musicbrainz.org/tag/synthpop)19,258
+* [alternative pop/rock](https://musicbrainz.org/tag/alternative%20pop%2Frock)17,408
+* [elektro](https://musicbrainz.org/tag/elektro)16,655
+* [fusion](https://musicbrainz.org/tag/fusion)15,605
+* [hip-hop/rap](https://musicbrainz.org/tag/hip-hop%2Frap)15,531
+* [world](https://musicbrainz.org/tag/world)14,601
+* [abstract electronic](https://musicbrainz.org/tag/abstract%20electronic)13,765
+* [goth rock](https://musicbrainz.org/tag/goth%20rock)13,152
+* [movie soundtrack](https://musicbrainz.org/tag/movie%20soundtrack)12,936
+* [chamber music](https://musicbrainz.org/tag/chamber%20music)12,177
+* [united kingdom](https://musicbrainz.org/tag/united%20kingdom)11,450
+* [atmospheric](https://musicbrainz.org/tag/atmospheric)11,387
+* [london](https://musicbrainz.org/tag/london)11,259
+* [keyboard](https://musicbrainz.org/tag/keyboard)10,760
+* [synth](https://musicbrainz.org/tag/synth)10,549
+* [piano](https://musicbrainz.org/tag/piano)10,536
+* [rock/goth rock](https://musicbrainz.org/tag/rock%2Fgoth%20rock)10,501
+* [acid](https://musicbrainz.org/tag/acid)10,312
+* [music video](https://musicbrainz.org/tag/music%20video)9,751
+* [punk/new wave](https://musicbrainz.org/tag/punk%2Fnew%20wave)9,375
+* [soundscape](https://musicbrainz.org/tag/soundscape)9,157
+* [los angeles](https://musicbrainz.org/tag/los%20angeles)9,118
+* [future jazz](https://musicbrainz.org/tag/future%20jazz)8,692
+* [chill](https://musicbrainz.org/tag/chill)8,568
+* [abstract](https://musicbrainz.org/tag/abstract)8,555
+* [christian](https://musicbrainz.org/tag/christian)8,129
+* [doom](https://musicbrainz.org/tag/doom)7,901
+* [new york](https://musicbrainz.org/tag/new%20york)7,800
+* [stoner](https://musicbrainz.org/tag/stoner)7,787
+* [compilation](https://musicbrainz.org/tag/compilation)7,771
+* [cinematic](https://musicbrainz.org/tag/cinematic)7,657
