@@ -9,20 +9,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        # Updated from v4 to v5 for Node 24 support
-        uses: actions/checkout@v5 
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        # Updated from v4 to v6 for Node 24 support
-        uses: actions/setup-python@v6 
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
 
       - name: Generate Stars Cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python - <<EOF
+          cat << 'EOF' > generate_stars.py
           import requests
           import os
 
@@ -34,15 +35,12 @@ jobs:
           
           stars = []
           page = 1
-
           while True:
               url = f"https://api.github.com/user/starred?page={page}&per_page=100"
               response = requests.get(url, headers=headers)
               data = response.json()
-              
               if not data or response.status_code != 200:
                   break
-                  
               stars.extend(data)
               page += 1
 
@@ -78,11 +76,12 @@ jobs:
           with open('content/stars.md', 'w') as f:
               f.write(content)
           EOF
+          python generate_stars.py
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add content/stars.md
-          git commit -m "chore: automated update of stars linkroll cards" || exit 0
+          git commit -m "chore: update stars linkroll" || exit 0
           git push
