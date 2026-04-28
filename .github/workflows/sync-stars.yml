@@ -1,18 +1,20 @@
 name: Sync GitHub Stars to Quartz (Card Layout)
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger from the Actions tab
+    - cron: '0 0 * * *' 
+  workflow_dispatch: 
 
 jobs:
   update-stars:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        # Updated from v4 to v5 for Node 24 support
+        uses: actions/checkout@v5 
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        # Updated from v4 to v6 for Node 24 support
+        uses: actions/setup-python@v6 
         with:
           python-version: '3.x'
 
@@ -24,7 +26,6 @@ jobs:
           import requests
           import os
 
-          # Setup Headers
           token = os.getenv("GITHUB_TOKEN")
           headers = {
               "Authorization": f"token {token}",
@@ -34,8 +35,6 @@ jobs:
           stars = []
           page = 1
 
-          # 1. Fetch the full repository objects
-          print("Fetching stars from GitHub API...")
           while True:
               url = f"https://api.github.com/user/starred?page={page}&per_page=100"
               response = requests.get(url, headers=headers)
@@ -47,7 +46,6 @@ jobs:
               stars.extend(data)
               page += 1
 
-          # 2. Build Markdown Content with Quartz Card (Callout) Layout
           content = "---\ntitle: 🌟 My GitHub Stars\n---\n\n"
           content += "A live-syncing gallery of repositories I've starred. Updated daily via GitHub Actions.\n\n"
 
@@ -59,11 +57,9 @@ jobs:
               lang = repo.get('language')
               topics = repo.get('topics', [])
 
-              # Create the "Card" using the Quartz 'abstract' callout
               content += f"> [!abstract] [{name}]({repo_url})\n"
               content += f"> {desc}\n"
               
-              # Sub-bullets for metadata inside the card
               if site_url:
                   content += f"> * [Visit Project Website]({site_url})\n"
               
@@ -71,20 +67,16 @@ jobs:
               if lang:
                   meta_line.append(f"`{lang}`")
               if topics:
-                  # Take top 3 topics to keep cards clean
                   meta_line.append(" ".join([f"#{t}" for t in topics[:3]]))
               
               if meta_line:
                   content += f"> * {' '.join(meta_line)}\n"
               
-              content += "\n" # Spacing between cards
+              content += "\n"
 
-          # 3. Write to the Quartz content folder
           os.makedirs('content', exist_ok=True)
           with open('content/stars.md', 'w') as f:
               f.write(content)
-          
-          print(f"Successfully generated cards for {len(stars)} stars.")
           EOF
 
       - name: Commit and Push
