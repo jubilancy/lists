@@ -1,0 +1,96 @@
+name: Sync GitHub Stars to Quartz (Card Layout)
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate Stars Cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<EOF
+          import requests
+          import os
+
+          # Setup Headers
+          token = os.getenv("GITHUB_TOKEN")
+          headers = {
+              "Authorization": f"token {token}",
+              "Accept": "application/vnd.github.v3+json"
+          }
+          
+          stars = []
+          page = 1
+
+          # 1. Fetch the full repository objects
+          print("Fetching stars from GitHub API...")
+          while True:
+              url = f"https://api.github.com/user/starred?page={page}&per_page=100"
+              response = requests.get(url, headers=headers)
+              data = response.json()
+              
+              if not data or response.status_code != 200:
+                  break
+                  
+              stars.extend(data)
+              page += 1
+
+          # 2. Build Markdown Content with Quartz Card (Callout) Layout
+          content = "---\ntitle: 🌟 My GitHub Stars\n---\n\n"
+          content += "A live-syncing gallery of repositories I've starred. Updated daily via GitHub Actions.\n\n"
+
+          for repo in stars:
+              name = repo.get('full_name', 'Unknown Repo')
+              repo_url = repo.get('html_url', '#')
+              site_url = repo.get('homepage')
+              desc = repo.get('description') or "No description provided."
+              lang = repo.get('language')
+              topics = repo.get('topics', [])
+
+              # Create the "Card" using the Quartz 'abstract' callout
+              content += f"> [!abstract] [{name}]({repo_url})\n"
+              content += f"> {desc}\n"
+              
+              # Sub-bullets for metadata inside the card
+              if site_url:
+                  content += f"> * [Visit Project Website]({site_url})\n"
+              
+              meta_line = []
+              if lang:
+                  meta_line.append(f"`{lang}`")
+              if topics:
+                  # Take top 3 topics to keep cards clean
+                  meta_line.append(" ".join([f"#{t}" for t in topics[:3]]))
+              
+              if meta_line:
+                  content += f"> * {' '.join(meta_line)}\n"
+              
+              content += "\n" # Spacing between cards
+
+          # 3. Write to the Quartz content folder
+          os.makedirs('content', exist_ok=True)
+          with open('content/stars.md', 'w') as f:
+              f.write(content)
+          
+          print(f"Successfully generated cards for {len(stars)} stars.")
+          EOF
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add content/stars.md
+          git commit -m "chore: automated update of stars linkroll cards" || exit 0
+          git push
