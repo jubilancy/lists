@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          ref: v4 # Ensures we are working on the v4 branch
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -83,5 +85,9 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add content/stars.md
-          git commit -m "chore: update stars linkroll" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update stars linkroll"
+            git push origin HEAD:v4
+          fi
