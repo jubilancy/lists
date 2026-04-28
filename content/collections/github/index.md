@@ -1,7 +1,4 @@
 ---
-title: garden
+title: github
 ---
-
-# garden
-
 knowledge base and topical research.
