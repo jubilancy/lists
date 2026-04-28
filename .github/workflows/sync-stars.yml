@@ -11,7 +11,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          ref: v4 # Ensures we are working on the v4 branch
+          ref: v4
+          fetch-depth: 0 # Fetches all history for all branches
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -30,10 +31,7 @@ jobs:
           import os
 
           token = os.getenv("GITHUB_TOKEN")
-          headers = {
-              "Authorization": f"token {token}",
-              "Accept": "application/vnd.github.v3+json"
-          }
+          headers = {"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"}
           
           stars = []
           page = 1
@@ -47,8 +45,6 @@ jobs:
               page += 1
 
           content = "---\ntitle: 🌟 My GitHub Stars\n---\n\n"
-          content += "A live-syncing gallery of repositories I've starred. Updated daily via GitHub Actions.\n\n"
-
           for repo in stars:
               name = repo.get('full_name', 'Unknown Repo')
               repo_url = repo.get('html_url', '#')
@@ -56,22 +52,11 @@ jobs:
               desc = repo.get('description') or "No description provided."
               lang = repo.get('language')
               topics = repo.get('topics', [])
-
-              content += f"> [!abstract] [{name}]({repo_url})\n"
-              content += f"> {desc}\n"
-              
-              if site_url:
-                  content += f"> * [Visit Project Website]({site_url})\n"
-              
-              meta_line = []
-              if lang:
-                  meta_line.append(f"`{lang}`")
-              if topics:
-                  meta_line.append(" ".join([f"#{t}" for t in topics[:3]]))
-              
-              if meta_line:
-                  content += f"> * {' '.join(meta_line)}\n"
-              
+              content += f"> [!abstract] [{name}]({repo_url})\n> {desc}\n"
+              if site_url: content += f"> * [Visit Project Website]({site_url})\n"
+              meta = [f"`{lang}`"] if lang else []
+              if topics: meta.append(" ".join([f"#{t}" for t in topics[:3]]))
+              if meta: content += f"> * {' '.join(meta)}\n"
               content += "\n"
 
           os.makedirs('content', exist_ok=True)
@@ -84,10 +69,14 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # DEBUG: Show us if the file actually exists on the runner
+          ls -l content/stars.md
+          
           git add content/stars.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "chore: update stars linkroll"
-            git push origin HEAD:v4
+            git push origin v4
           fi
