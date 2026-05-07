@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Quicksand",
+        header: "Victor Mono",
         body: "Quicksand",
         code: "Cascadia Code",
       },
