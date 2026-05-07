@@ -41,7 +41,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       folderDefaultState: "collapsed",
       useSavedState: false,
-      filterFn: (node) => node.depth < 2,
       folderClickBehavior: "link",
     }),
   ],
@@ -70,7 +69,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       folderDefaultState: "collapsed",
       useSavedState: false,
-      filterFn: (node) => node.depth < 2,
       folderClickBehavior: "link",
     }),
   ],
