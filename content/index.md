@@ -1,10 +1,14 @@
 ---
 title: hi! i'm eliana
 ---
-this is the homepage of my new quartz site at **jubilancy.github.io**.
+this is the homepage of my new quartz site at **jubilancy.github.io**. you can find me at [mataroa](https://ely.mataroa.blog/) occasionally as well.
 
 ### feel free to link my button !
-![](/static/buttons/300x40.gif)
+<div style="text-align: center">
+
+[![](/static/buttons/300x40.gif)](https://jubilancy.github.io)
+
+</div>
 
 ```
                                                                                                     
