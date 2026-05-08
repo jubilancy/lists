@@ -261,3 +261,100 @@ Zotero Connector 5.0.195
 - Stats Link: https://chrome-stats.com/d/ekhagklcjbdpajgpjgmbionohlpdbjgc
 - CRXcavator Link: https://crxcavator.io/report/ekhagklcjbdpajgpjgmbionohlpdbjgc?platform=Chrome
 
+# Complete App List of My iPhone & iPad Apps
+- 1967: Retro Filters & Effects
+- 8tracks - Best Playlist Radio
+- A Color Story: Photo   Video
+- ALLO ALLO (Formerly BeeCanvas)
+- Among Us!
+- Amuse Music Distribution
+- Analyzer Plus-Followers Report
+- Bazaart AI Photo Editor Design
+- Beauty Salon - Girls Makeup & Dressup Game
+- BIGO LIVE-Live Stream, Go Live
+- Bluestone Lane
+- Brandy Melville US
+- CamScanner - PDF Scanner App
+- Canvas by Instructure
+- Cats & Soup
+- CAVA | Order Online
+- CBT-i Coach
+- Celebrity Voice Changer Live
+- Chan Watch
+- Co-Star Personalized Astrology
+- CocoPPa - cute icon&wallpaper
+- Common App
+- Cooking City: Restaurant Games
+- Cotton On
+- Countdown
+- Dazz Cam Disposable
+- DeviantArt
+- Documents (Office Docs)
+- Dont touch the white tile
+- Dubstep Song Construction Kit
+- eBay online shopping & selling
+- Electronic Song Maker
+- Fitness Coach - Workout Plan
+- Fly Delta
+- Focus Keeper - Pomodoro Timer
+- Followers analyzer reports 
+- Followers Track for Instagram?
+- Foxtrot Delivery Market
+- FreePrints - Print Photos
+- FreePrints Gifts - Fast & Easy
+- Genius: Song Lyrics Finder
+- Giant Food
+- GIF Maker by Momento
+- GlitchCam: Video, Photo, AR
+- Headspace: Meditation & Sleep
+- High School Story
+- Hooked
+- Huji Cam
+- Ice Pops Maker Salon
+- IHOP
+- IKEA
+- ImgPlay: GIF Maker & Meme
+- Imprint: Visual Micro Learning
+- Indeed Job Search
+- iPoop: Bathroom   Poop Tracker
+- Kitty Cat Resort : cat games
+- Lomograph - Retro Photo Editor
+- Minion Rush: Running game
+- Motel Rocks
+- My Cafe - Restaurant Game
+- myHomework Student Planner
+- MyLittleStar
+- Mystic Messenger
+- NextPlate
+- Patient Rewards Hub
+- Perspective, a mindful journal
+- Piano with Songs
+- Picsart AI Photo Editor, Video
+- Poop Map - Pin and Track
+- Prisma: Photo Editor, Filters
+- Quora
+- Record it! : : Screen Recorder
+- Reports Unfollowers Followers+
+- SaveTok
+- SCRL: Photo Collage Maker
+- sendit - get it now
+- Shake Shack
+- SHEIN - Shopping Online
+- SnapTik - Video Saver Manager
+- SongShift
+- Spiral Roll
+- Square Fit Photo Video Editor
+- St. John's U Connect
+- StarMaker Lite-Sing Karaoke
+- StarMaker-Sing Karaoke Songs
+- Superfy: Meet real people
+- Tap Tap Fish - AbyssRium
+- U by BB&T
+- UKG Pro Classic
+- Unfold: Reels & Story Maker
+- Urban Outfitters
+- VHS Cam - Retro Camcorder FX
+- Visage: airbrush photo maker
+- Widgetsmith
+- Yarn - Chat & Text Stories
+- Yokee Karaoke - Start Singing
