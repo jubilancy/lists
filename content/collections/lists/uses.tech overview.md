@@ -2,8 +2,6 @@
 title: "/uses"
 source: "https://uses.tech/"
 created: 2026-02-03
-description:
-  - "A list of /uses pages detailing developer setups."
 tags:
   - "new-clippings"
 ---
