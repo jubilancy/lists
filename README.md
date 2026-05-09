@@ -2,7 +2,7 @@
 # welcome to my [digital garden](https://jzhao.xyz/posts/networked-thought) @ [jubilancy.github.io](http://jubilancy.github.io/) !
 ## a personal website curated with lists, notes, guides, tools etc. built with github pages, quartz, and markdown.
 
-### tech stack
+### my tech stack
 - github pages
 - quartz
 - markdown
